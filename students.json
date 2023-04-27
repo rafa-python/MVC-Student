@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Rafael Bastos",
+        "age": "32",
+        "student_id": 1
+    },
+    {
+        "name": "Ruan Perez",
+        "age": 17,
+        "student_id": 2
+    },
+    {
+        "name": "Joao Miguel",
+        "age": 22,
+        "student_id": 3
+    },
+    {
+        "name": "Sara Michele",
+        "age": 19,
+        "student_id": 5
+    },
+    {
+        "name": "Henrique Silva",
+        "age": 28,
+        "student_id": 6
+    },
+    {
+        "name": "Monica Silva",
+        "age": "37",
+        "student_id": 7
+    }
+]
